@@ -1,3 +1,3 @@
 checking jira
 
-counter = 5
+counter = 6
